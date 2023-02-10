@@ -6,8 +6,6 @@ This example demonstrates how to query data from Hygraph with [`gatsby-source-gr
 
 • [Demo](https://hygraph-with-gatsby.vercel.app)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/hygraph/hygraph-examples/tree/master/with-gatsby) [![Clone project](https://hygraph.com/button)](https://app.hygraph.com/clone/0ff23f7a41ce4da69a366ab299cc24d8)
-
 ## How to Use
 
 ### Download Manually
