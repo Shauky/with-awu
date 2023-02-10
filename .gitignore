@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+venv
+.sass-cache
+*.out
+*.pyc
